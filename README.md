@@ -18,3 +18,7 @@ Here are some of the technologies and tools that I work with:
 - Back-end development: PHP, Laravel
 - Database: MySQL
 - Other tools: Git, VS Code, Photoshop,
+
+## 📫 Contact Me
+- Email : [[hixvmx](hixvmx@gmail.com)]
+- LinkedIn : [[hixvmx](https://www.linkedin.com/in/hixvmx/)]
