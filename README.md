@@ -12,10 +12,10 @@ I'm a passionate web developer with 3 years of experience in creating beautiful 
 
 Here are some of the technologies and tools that I work with:
 
-- Front-end development: HTML, CSS, JavaScript, React, Next.js
+- Front-end development: HTML, CSS, JavaScript, JQuery, React, Next.js
 - Back-end development: PHP, Laravel
 - Database: MySQL
-- Other tools: RESTfull API, Git, VS Code, Photoshop,
+- Other tools: RESTfull API, Git, VS Code, Cpanel, PhpMyAdmin, Photoshop,
 
 
 ## 📫 Contact Me
