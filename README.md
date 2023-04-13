@@ -2,13 +2,9 @@
 
 I'm @hixvmx, a web developer based in morocco. Welcome to my GitHub profile!
 
-## 💻 About Me
+## 🙋‍♂️ About Me
 
-- 🎓 I have a degree in [Your Degree] from [Your University].
-- 💼 I'm currently working at [Your Company] as a [Your Position].
-- 🌱 I'm constantly learning and improving my skills in [Programming Languages/Frameworks/Technologies you are interested in].
-- 🔭 I'm currently working on [Current Project you are working on].
-- 📫 How to reach me: [[My Email](hixvmx@gmail.com)] or [[My LinkedIn](https://www.linkedin.com/in/hixvmx/)].
+I'm a passionate web developer with 3 years of experience in creating beautiful and responsive websites. I enjoy building web applications that solve real-world problems and improve people's lives. I have experience working on both front-end and back-end development, and I'm always learning new technologies to stay up-to-date with the latest trends.
 
 ## 🚀 My Skills
 
