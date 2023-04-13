@@ -22,3 +22,6 @@ Here are some of the technologies and tools that I work with:
 ## 📫 Contact Me
 - Email : [hixvmx](mailto:hixvmx@gmail.com)
 - LinkedIn : [hixvmx](https://www.linkedin.com/in/hixvmx/)
+- Twitter : [hixvmx](https://twitter.com/hixvmx/)
+- Facebook : [hixvmx](https://web.facebook.com/hixvmx/)
+- Instagram : [hixvmx](https://instagram.com/hixvmx/)
