@@ -13,7 +13,7 @@ Here are some of the technologies and tools that I work with:
 - Front-end development: HTML, CSS, JavaScript, React, Next.js
 - Back-end development: PHP, Laravel
 - Database: MySQL
-- Other tools: Git, VS Code, Photoshop,
+- Other tools: RESTfull API, Git, VS Code, Photoshop,
 
 ## 📫 Contact Me
 - Email : [hixvmx](mailto:hixvmx@gmail.com)
