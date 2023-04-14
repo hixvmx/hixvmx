@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm @hixvmx, a web developer based in morocco. Welcome to my GitHub profile!
+I'm @hixvmx, a web developer based in morocco. Welcome to my GitHub profile! 
 
 
 ## 🙋‍♂️ About Me
